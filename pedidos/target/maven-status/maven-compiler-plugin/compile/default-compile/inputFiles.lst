@@ -1,0 +1,11 @@
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\controller\PedidoController.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\model\ItemDoPedido.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\model\Status.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\service\PedidoService.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\model\Pedido.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\config\Configuracao.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\dto\ItemDoPedidoDto.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\dto\PedidoDto.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\repository\PedidoRepository.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\dto\StatusDto.java
+D:\repos\alurafood-ms-java-spring\pedidos\src\main\java\br\com\alurafood\pedidos\PedidosApplication.java
